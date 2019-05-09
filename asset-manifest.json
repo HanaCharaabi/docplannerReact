@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/docplannerReact/static/css/main.122e178f.chunk.css",
+    "main.js": "/docplannerReact/static/js/main.34ff9225.chunk.js",
+    "main.js.map": "/docplannerReact/static/js/main.34ff9225.chunk.js.map",
+    "runtime~main.js": "/docplannerReact/static/js/runtime~main.ca513ad7.js",
+    "runtime~main.js.map": "/docplannerReact/static/js/runtime~main.ca513ad7.js.map",
+    "static/js/2.809ee080.chunk.js": "/docplannerReact/static/js/2.809ee080.chunk.js",
+    "static/js/2.809ee080.chunk.js.map": "/docplannerReact/static/js/2.809ee080.chunk.js.map",
+    "index.html": "/docplannerReact/index.html",
+    "precache-manifest.89f6454b9c29bf3ded0571914464ecbe.js": "/docplannerReact/precache-manifest.89f6454b9c29bf3ded0571914464ecbe.js",
+    "service-worker.js": "/docplannerReact/service-worker.js",
+    "static/css/main.122e178f.chunk.css.map": "/docplannerReact/static/css/main.122e178f.chunk.css.map",
+    "static/media/Barcelona.png": "/docplannerReact/static/media/Barcelona.30fef32f.png",
+    "static/media/Curitiba.png": "/docplannerReact/static/media/Curitiba.2ab726ec.png",
+    "static/media/Istanbul.png": "/docplannerReact/static/media/Istanbul.a772a418.png",
+    "static/media/Mexico City.png": "/docplannerReact/static/media/Mexico City.c92e8f58.png",
+    "static/media/Rome.png": "/docplannerReact/static/media/Rome.16430b36.png",
+    "static/media/Warsaw.png": "/docplannerReact/static/media/Warsaw.4a92ae16.png",
+    "static/media/section4.css": "/docplannerReact/static/media/background.edb44798.jpg",
+    "static/media/logo-default-group-en.svg": "/docplannerReact/static/media/logo-default-group-en.8e5b345f.svg",
+    "static/media/screen-marketplace.png": "/docplannerReact/static/media/screen-marketplace.82d323de.png",
+    "static/media/screen-saas.png": "/docplannerReact/static/media/screen-saas.120076c7.png"
+  }
+}
