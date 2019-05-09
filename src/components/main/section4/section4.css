@@ -1,0 +1,94 @@
+
+.all-section4{
+  
+    width:100%;
+    background-color: #D8f6f5;
+    background-image: url(../../../Docplanner-files/background.jpg);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    
+    
+    margin-top: 60px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content: center;
+    }
+    
+    .sec4-div1{
+      width: 478px;
+      margin-top: 82px;
+    }
+    .sec2-div1 p{
+      Font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    
+    }
+    
+    .section4 h1{
+      font-size: 34px;
+    font-weight: 300;
+    line-height: 44.2px;
+    }
+    .sec4-div2{
+    
+    justify-content: space-around;
+      display: flex;
+    flex-direction:row;
+    }
+    .sec4-div2-1{
+      margin-top: 51px;
+      width: 230px;
+      margin-right: 11px;
+    margin-bottom: 20px;
+      
+      display: flex;
+      flex-direction:column;
+    }
+    .sec4-div2-2{
+      width: 230px;
+      margin-top: 20px;
+      margin-left: 11px;
+      display: flex;
+    flex-direction:column;
+    }
+    
+    .sec4-div2-11{
+      width: 230px;
+      height: 250px;
+      margin: 8px;
+      border-radius: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction:column;
+    
+    justify-content:center;
+    align-items:center;
+    
+    
+    }
+    
+    .sec4-div2-11 p{
+      
+      font-size: 13px;
+    font-weight: 400;
+    line-height: 16.9px;
+     color: rgb(116, 116, 116);
+     text-align:center;
+    }
+    
+    .sec4-div2-11 h3{
+      font-size: 24px;
+    font-weight: 300;
+    line-height: 31.2px;
+    text-align:center;
+    color: rgb(0, 179, 155);
+      
+    }
+    
+    .sec4-div2-11 img{
+      width: 40px;
+    }
+    

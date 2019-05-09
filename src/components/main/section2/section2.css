@@ -1,0 +1,107 @@
+.all-section2{
+
+    max-width: 1015px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left:  11.5%;
+    margin-right: 11.5%;
+    padding: 0 20px;
+    position: relative;
+    display: flex;
+    justify-content:space-around;
+    align-content:center;
+}
+
+
+.all-section2 h1{
+font-size: 26px;
+font-weight: 300;
+line-height: 33.8px;
+color: rgb(255, 255, 255);
+font-size: 1.625em;
+    margin-top: 7.8px ;
+margin-bottom:26px;
+  
+}
+
+.all-section2 h4{
+  font-size: 14px;
+font-weight: 400;
+line-height: 18.2px;
+color: rgba(255, 255, 255, 0.7)
+}
+
+.sec2-div1{
+  background: #00CCB1;
+  border-radius:10px ;
+    color: #fff;
+padding-left:40px;
+padding-right:40px;
+padding-top:22px;
+position: relative;
+width: 477px;
+height: 390px;
+margin-right: 11px;
+
+}
+
+.chooses-select{
+  align-items:center;
+color:rgb(51, 51, 51);
+font-style:normal;
+padding-left:18px;
+  border-radius:4px ;
+  cursor:pointer;
+  font-size:12px;
+  font-weight:600;
+  height:40px;
+  width:193px;
+  letter-spacing: 0.48px ;
+  line-height:15.6px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+.chooses-vide{
+  height:40px;
+  width:174px;
+  align-items:center;
+padding-left:18px;
+  position: relative;
+  
+}
+
+.chooses{
+  display: flex;
+}
+
+.sec2-div1-img1{
+  position: relative;
+  right: 0;
+
+ 
+}
+.sec2-div1-img2{
+  position: absolute;
+overflow: hidden;
+padding-right: 5.7px;
+width: 250px;
+ height:217px;
+}
+
+.sec2-img{ 
+  width: 300px;
+}
+
+
+.sec2-div2{
+  background:rgb(61, 131, 223);
+    color: #fff;
+  border-radius:10px ;
+padding-left:40px;
+padding-right: 40px;
+padding-top:22px;
+width: 477px;
+height: 390px;
+margin-left: 11px;
+}
+

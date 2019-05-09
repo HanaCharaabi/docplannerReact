@@ -1,0 +1,82 @@
+.all-section5{
+
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-left:  11.5%;
+    padding-right: 11.5%;
+    display: flex;
+    flex-wrap: wrap;
+    
+    }
+    .intro-citys{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      margin: 0 20%;
+    }
+    
+    .intro-citys p{
+      font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+     color:rgb(116, 116, 116);
+    text-align:center;
+    
+    }
+    
+    .citys{
+      margin-top: 50px;
+      display: flex;
+      flex-wrap: wrap;
+      align-content:flex-start;
+      justify-content: space-around
+    }
+    
+    
+    
+    
+    .cart-image {
+      position: relative;
+      width: 310px;
+      height: 350px;
+      background-color: white;
+      margin-bottom: 25px;
+    border: rgba(180, 168, 168,0.3) 0.5px solid;
+    border-radius: 5px;
+    }
+    .cart-image:hover {
+      
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    }
+    
+    .city-name{
+      display: flex;
+      justify-content: space-between;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align:center;
+    color: rgb(116, 116, 116);
+    padding:20px;
+    }
+    
+    .btn-cart_img{
+    padding: 10px;
+      border-radius: 5px;
+      background-color:#3D83DF;
+      font-size: 10px;
+    font-weight: 700;
+    line-height: 10px;
+    text-align:center;
+    color: rgb(255, 255, 255);
+    
+    }
+    
+    .btn-cart_img:hover{
+    
+      background-color: rgb(22,98,198);
+      cursor:pointer;
+    
+    }
+    

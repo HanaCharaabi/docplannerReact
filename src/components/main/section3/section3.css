@@ -1,0 +1,55 @@
+.all-section3{
+  
+    height: 150px;
+  max-width: 1015px;
+  margin-left:  11.5%;
+  margin-right: 11.5%;
+  padding: 0 20px;
+  position: relative;
+  display: flex;
+  justify-content: space-between
+  
+  
+  }
+  .sec3-div1 h1{
+    font-size: 26px;
+  font-weight: 300;
+  line-height: 33.8px;
+  
+  }
+  .sec3-div1{width: 333;}
+  .sec3-div2{
+    width:660px;
+    display: flex;
+    height: 100px;
+    flex-wrap:wrap;
+  
+  }
+  
+  
+  .menu-items-company a{
+  width:77px;
+  color:rgb(171, 171, 171);
+  cursor:pointer;
+  padding-left:20px;
+  padding-right:20px;
+  text-decoration-color:rgb(171, 171, 171);
+  text-decoration-line:none;
+  font-size: 16px;
+  font-weight: 550;
+  
+  }
+  
+  .menu-items-company a:hover{
+  color: #00CCB1;
+  }
+  
+  .logo-sec3{
+    
+    margin: 0px;
+    padding: 0px;
+    width:20px;
+  
+  }
+  
+  

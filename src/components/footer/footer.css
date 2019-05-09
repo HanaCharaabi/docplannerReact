@@ -1,0 +1,25 @@
+
+/* footer*/
+.main-footer{
+    border-top: 0.5px solid rgba(128, 128, 128, 0.411);
+    font-size: 12px;
+  font-weight: 400;
+  line-height: 15.6px;
+  text-align:center;
+   color: rgb(171, 171, 171);
+   
+   padding-top: 30px;
+   padding-bottom: 10px;
+   
+  }
+  
+  
+  .B-copy-R{
+    
+    margin-bottom:0px;
+  }
+  .copy-R{
+    margin-top:0px;
+  }
+  
+  
